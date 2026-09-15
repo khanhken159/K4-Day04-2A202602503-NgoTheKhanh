@@ -18,7 +18,11 @@ starter_v0/tests/
 
 # Local action/scratch output
 /starter_v0/tickets/
-/starter_v0/runs/
+/starter_v0/runs/*
+!/starter_v0/runs/v0_B_base_openai_20260915T190319371524.json
+!/starter_v0/runs/v1_B_base_openai_20260915T194342366768.json
+!/starter_v0/runs/v2_B_base_openai_20260915T194833426098.json
+!/starter_v0/runs/v3_B_base_openai_20260915T201324779046.json
 /starter_v0/transcripts/
 /starter_v0/analysis/
 
